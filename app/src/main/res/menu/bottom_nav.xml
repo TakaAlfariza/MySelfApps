@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item android:title="Daily Activity"
+        android:id="@+id/daily_activity"
+        android:icon="@drawable/baseline_library_books_24"/>
+    <item android:title="Gallery"
+        android:id="@+id/gallery"
+        android:icon="@drawable/baseline_image_24"/>
+    <item android:title="Music"
+        android:id="@+id/music"
+        android:icon="@drawable/baseline_library_music_24"/>
+    <item android:title="Profil"
+        android:id="@+id/profil"
+        android:icon="@drawable/baseline_person_pin_24"/>
+</menu>
+
+    <!--
+    Nama : Guruh Fillah Alfariza
+    NIM  : 10120781
+    KELAS : IF-9
+    Tanggal Pengerjaan : 14 MEI 2023
+    -->
